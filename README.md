@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/Gyra/literatures/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction and Motivation
+From time to time, I have collected a pile of papers in **finance** and **econometrics** or **something random** written by researchers far more smarter than me. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However most of them have been kind of ... just sleeping at the deepest folder in my macbook (thinking about a [Razer Blade 15](https://www.razer.com/gb-en/gaming-laptops/razer-blade?utm_source=google&utm_medium=cpc&utm_campaign=adwordsukbrandsystemsbladeC1&gclid=EAIaIQobChMI7tWW2pH13AIVBp3tCh21KAUhEAAYAiAAEgK3l_D_BwE) as the next desktop, any ideas?).
 
-### Markdown
+The thought of reading these literatures one by one came to my head like a shock and the first stage of my impulse function is to share my reading notes here. 
+My assumption is that to keep this going, your kind comments are needed **and much appreciated**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Literature Selection Rules
+Well, probably there isn't a clear criteria about why this or that paper is in my computer. Most of them should be related to topics such as **asset pricing**, **option pricing**, **volatility modelling**, **stochastic process** and **foreign exchange**. They maybe papers from the our business school's seminars, thus they might be talking about **econometrics**, **banking** or **anything**.
 
-```markdown
-Syntax highlighted code block
+'Authors think, therefore they exist.'
 
-# Header 1
-## Header 2
-### Header 3
+## Methodology
+I have been told a lot of times, 'Keep writting, and write more'. A great suggestion that I was too lazy to follow.
+Prof. John Cochrane is a role model by sharing his idea in the [blog](https://johnhcochrane.blogspot.com/), which I highly recommend. In fact, you can just subscribe his blog, and forget about this amateur one.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gyra/literatures/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Talk is cheap, let's begin to read

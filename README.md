@@ -9,7 +9,7 @@ The thought of reading these literatures one by one came to my head like a shock
 My assumption is that to keep this going, your kind comments are needed **and much appreciated**.
 
 ## Literature Selection Rules
-Well, probably there isn't a clear criteria about why this or that paper is in my computer. Most of them should be related to topics such as **asset pricing**, **option pricing**, **volatility modelling**, **stochastic process** and **foreign exchange**. They maybe papers from the our business school's seminars, thus they might be talking about **econometrics**, **banking** or **anything**.
+Well, probably there isn't a clear criteria about why this or that paper is in my computer. Most of them should be related to topics such as **asset pricing**, **option pricing**, **volatility modelling**, **stochastic process** and **foreign exchange**. There maybe papers from the our business school's seminars, thus they might be talking about **econometrics**, **banking** or **anything**.
 
 'Authors think, therefore they exist.'
 

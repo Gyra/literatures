@@ -1,3 +1,11 @@
+# [2. Heston's famous continuous stochastic volatility model (writing in progress)](docs/h1993.md)
+19/Aug/2018
+- Heston, 1993, _Review of Financial Studies_
+
+[Read more](docs/h1993.md)
+
+---
+
 # [1. Heston and Nandi's GARCH based option pricing model](docs/hn2000.md)
 18/Aug/2018
 

@@ -11,7 +11,7 @@ From time to time, I have collected a pile of papers in **finance** and **econom
 
 However most of them have been kind of ... just sleeping at the deepest folder in my macbook (thinking about a [Razer Blade 15](https://www.razer.com/gb-en/gaming-laptops/razer-blade?utm_source=google&utm_medium=cpc&utm_campaign=adwordsukbrandsystemsbladeC1&gclid=EAIaIQobChMI7tWW2pH13AIVBp3tCh21KAUhEAAYAiAAEgK3l_D_BwE) as the next desktop, any ideas?).
 
-The thought of reading these literatures one by one came to my head like a shock and the first stage of my impulse function is to share my reading notes here. 
+The thought of reading these literatures one by one came to my head like a shock and the first stage of my impulse function is to share my reading notes with my lame English here. 
 My assumption is that to keep this going, your kind comments are needed **and much appreciated**.
 
 ## Literature Selection Rules
@@ -27,5 +27,7 @@ _'Keep writting, and write more'_.
 A great suggestion that I was too lazy to follow.
 Prof. John Cochrane is a role model by sharing his idea in the [blog](https://johnhcochrane.blogspot.com/), which I highly recommend. In fact, you can just subscribe his blog, and forget about this amateur one.
 
+You might find it difficult to understand the theories in the papers sometimes, that's not only because of the mathematics, but also because of my horrible narrative, and grammar, and spelling.
+
 ## Talk is cheap, let's begin to read
-Actually, thanks to my stupid design, the updating are at the beginning of the page. See you there.
+Actually, thanks to my stupid design, updatings are at the beginning of the page. See you there.

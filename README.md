@@ -1,3 +1,8 @@
+# 18/Aug/2018
+[A Closed-Form GARCH Option Valuation Model]()
+- Heston and Nandi, 2000, _Review of Financial Studies_
+
+
 # Welcome
 
 ## Introduction and Motivation

@@ -23,9 +23,9 @@ Well, probably there isn't a clear criteria about why this or that paper is in m
 
 ## Methodology
 I have been told a lot of times,
-```
+
 _'Keep writting, and write more'_. 
-```
+
 
 A great suggestion that I was too lazy to follow.
 Prof. John Cochrane is a role model by sharing his idea in the [blog](https://johnhcochrane.blogspot.com/), which I highly recommend. In fact, you can just subscribe his blog, and forget about this amateur one.
@@ -33,4 +33,4 @@ Prof. John Cochrane is a role model by sharing his idea in the [blog](https://jo
 You might find it difficult to understand the theories in the papers sometimes, that's not only because of the mathematics, but also because of my horrible narrative, and grammar, and spelling.
 
 ## Talk is cheap, let's begin to read
-Actually, thanks to my stupid design, updatings are at the beginning of the page. See you there.
+Actually, thanks to my stupid design, updatings are at the beginning of the page. See you back there.

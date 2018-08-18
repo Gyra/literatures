@@ -7,7 +7,7 @@
 # Welcome
 
 ## Introduction and Motivation
-From time to time, I have collected a pile of papers in **finance** and **econometrics** or **something random** written by researchers far more smarter than me. 
+From time to time, I have collected a pile of papers in **finance** and **econometrics** or **something random** written by brilliant researchers. 
 
 However most of them have been kind of ... just sleeping at the deepest folder in my macbook (thinking about a [Razer Blade 15](https://www.razer.com/gb-en/gaming-laptops/razer-blade?utm_source=google&utm_medium=cpc&utm_campaign=adwordsukbrandsystemsbladeC1&gclid=EAIaIQobChMI7tWW2pH13AIVBp3tCh21KAUhEAAYAiAAEgK3l_D_BwE) as the next desktop, any ideas?).
 

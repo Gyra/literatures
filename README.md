@@ -27,4 +27,4 @@ A great suggestion that I was too lazy to follow.
 Prof. John Cochrane is a role model by sharing his idea in the [blog](https://johnhcochrane.blogspot.com/), which I highly recommend. In fact, you can just subscribe his blog, and forget about this amateur one.
 
 ## Talk is cheap, let's begin to read
-Actually, thank to my stupid design, the updating are at the beginning of the page. See you there.
+Actually, thanks to my stupid design, the updating are at the beginning of the page. See you there.

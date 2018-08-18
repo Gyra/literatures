@@ -2,6 +2,7 @@
 [A Closed-Form GARCH Option Valuation Model](docs/hn2000.md)
 - Heston and Nandi, 2000, _Review of Financial Studies_
 
+---
 
 # Welcome
 

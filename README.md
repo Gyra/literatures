@@ -1,5 +1,5 @@
 # Heston and Nandi's GARCH based option pricing model, 18/Aug/2018
-[A Closed-Form GARCH Option Valuation Model]()
+[A Closed-Form GARCH Option Valuation Model](https://github.com/Gyra/literatures/blob/master/doc/hn2000.md)
 - Heston and Nandi, 2000, _Review of Financial Studies_
 
 

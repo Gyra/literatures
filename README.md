@@ -1,4 +1,4 @@
-# [2. Heston's famous continuous stochastic volatility model (writing in progress)](docs/h1993.md)
+# [2. Heston's continuous stochastic volatility model](docs/h1993.md)
 19/Aug/2018
 
 [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options](docs/h1993.md)

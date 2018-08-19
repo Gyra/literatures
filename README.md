@@ -1,4 +1,4 @@
-# [3. A nonparameteric test of conditional independence (writing in progress)](docs/sw2007.md)
+# [3. A nonparameteric test of conditional independence](docs/sw2007.md)
 20/Aug/2018
 
 [A Consistent Characteristic Function-Based Test for Conditional Independence](docs/sw2007.md)

@@ -1,3 +1,13 @@
+# [3. A nonparameteric test of conditional independence (writing in progress)](docs/sw2007.md)
+20/Aug/2018
+
+[A Consistent Characteristic Function-Based Test for Conditional Independence](docs/sw2007.md)
+- Su and White, 2007, _Journal of Econometrics_
+
+[Read more](docs/sw2007.md)
+
+---
+
 # [2. Heston's continuous stochastic volatility model](docs/h1993.md)
 19/Aug/2018
 

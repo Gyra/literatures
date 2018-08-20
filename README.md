@@ -1,3 +1,13 @@
+# [3. Covered Interest Rate Parity does not work (writing in progress)](docs/dtv2018.md)
+22/Aug/2018
+
+[Deviations from Covered Interest Rate Parity](docs/dtv2018.md)
+- Du, Tepper and Verdelhan, 2018, _Journal of Finance_
+
+[Read more](docs/dtv2018.md)
+
+---
+
 # [3. A nonparameteric test of conditional independence](docs/sw2007.md)
 20/Aug/2018
 

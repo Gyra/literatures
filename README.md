@@ -1,4 +1,4 @@
-# [3. Covered Interest Rate Parity does not work (writing in progress)](docs/dtv2018.md)
+# [4. Covered Interest Rate Parity does not work (writing in progress)](docs/dtv2018.md)
 22/Aug/2018
 
 [Deviations from Covered Interest Rate Parity](docs/dtv2018.md)

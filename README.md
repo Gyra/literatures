@@ -1,3 +1,13 @@
+# [5. Bipower Variation (writing in progress)](docs/bs2004.md)
+24/Aug/2018
+
+[Power and Bipower Variation with Stochastic Volatility and Jumps](docs/bs2004.md)
+- Barndorff-Nielsen and Shephard, 2004, _Journal of Financial Econometrics_
+
+[Read more](docs/bs2004.md)
+
+---
+
 # [4. Covered Interest Rate Parity does not work](docs/dtv2018.md)
 22/Aug/2018
 
